@@ -21,3 +21,7 @@ Objective: Experiment with ANN on tabular data, explore embedding layers for cat
 - Learnt how we can reduce the learninig rate when validation loss gets plateau.
   
 Notebook: Credit_Score_ANN.ipynb
+
+
+https://github.com/user-attachments/assets/3a909aeb-fd67-4d3a-90f7-7c9d2b1b4ead
+
